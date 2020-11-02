@@ -6,7 +6,7 @@ class School
   end
   
   def add_student(student, year)
-    roster[year] || = []
+    roster[year] ||= []
     roster[year] << student
   end
   
