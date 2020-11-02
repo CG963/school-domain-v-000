@@ -11,7 +11,8 @@ class School
   end
   
   def grade(year)
-    roster.detect
+    roster.detect do |x, y|
+      
 
 
 end
