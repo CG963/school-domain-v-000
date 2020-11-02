@@ -14,7 +14,8 @@ class School
     roster.detect do |x, y|
       if x == year
         return y
-        
+      end
+  end
 
 
 end
