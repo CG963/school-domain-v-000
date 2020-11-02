@@ -10,7 +10,8 @@ class School
     roster[year] << student
   end
   
-  def grade()
+  def grade(year)
+    
 
 
 end
