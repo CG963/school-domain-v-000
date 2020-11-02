@@ -20,5 +20,6 @@ class School
 
   def sort
     new_hash = {}
-    roster.etect do |x, y|
+    roster.each do |x, y|
+      
 end
