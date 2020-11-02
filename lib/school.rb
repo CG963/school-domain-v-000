@@ -11,7 +11,7 @@ class School
   end
   
   def grade(year)
-    
+    roster.detect
 
 
 end
